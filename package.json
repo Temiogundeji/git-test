@@ -1,0 +1,24 @@
+{
+  "name": "coursera-backend",
+  "version": "1.0.0",
+  "description": "\"# git-test\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temiogundeji/git-test.git"
+  },
+  "keywords": [
+    "backend",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "temiogundeji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Temiogundeji/git-test/issues"
+  },
+  "homepage": "https://github.com/Temiogundeji/git-test#readme"
+}
